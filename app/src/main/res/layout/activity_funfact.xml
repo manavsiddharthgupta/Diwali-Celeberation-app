@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/diwali_celeb5"
+    tools:context=".Funfact"
+    >
+
+    <TextView
+        android:id="@+id/funfact_textview"
+        android:layout_width="0dp"
+        android:layout_height="250dp"
+        android:layout_marginTop="56dp"
+        android:background="#E6FD04"
+        android:fontFamily="@font/berkshire_swash"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="@string/Funfact_textview"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/funfact_next_buttton"
+        android:layout_width="80dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="640dp"
+        android:gravity="center"
+        android:padding="0dp"
+        android:paddingLeft="0dp"
+        android:paddingTop="0dp"
+        android:paddingRight="0dp"
+        android:paddingBottom="0dp"
+        android:text="next"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="normal"
+        app:backgroundTint="#FCE37A35"
+        app:iconPadding="0dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.924"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

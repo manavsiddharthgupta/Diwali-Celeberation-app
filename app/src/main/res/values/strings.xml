@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Diwali Celebration</string>
+    <string name="Name">Name -</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="button_explore">explore</string>
+    <string name="hi">Hi,</string>
+    <string name="rangoli">Rangoli</string>
+    <string name="funfacts">funfacts</string>
+    <string name="take_quiz">take quiz</string>
+    <string name="history">history</string>
+    <string name="date_textview">Thursday,4th of November,    Diwali: Festival of Lights</string>
+    <string name="intro_textview">Diwali, or Dipawali, is India\'s biggest and most important holiday of the year. The festival gets its name from the row (avali) of clay lamps (deepa) that Indians light outside their homes to symbolize the inner light that protects from spiritual darkness. This festival is as important to Hindus as the Christmas holiday is to Christians. Over the centuries, Diwali has become a national festival that\'s also enjoyed by non-Hindu communities. For instance, in Jainism, Diwali marks the nirvana, or spiritual awakening, of Lord Mahavira on October 15, 527 B.C., in Sikhism, it honors the day that Guru Hargobind Ji, the Sixth Sikh Guru, was freed from imprisonment. Buddhists in India celebrate Diwali as well.</string>
+    <string name="todo" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="todo1" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="todo2" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="place_of_celebration">In northern India, they celebrate the story of King Rama\'s return to Ayodhya after he defeated Ravana by lighting rows of clay lamps.
+Southern India celebrates it as the day that Lord Krishna defeated the demon Narakasura.
+In western India the festival marks the day that Lord Vishnu, the Preserver (one of the main gods of the Hindu trinity) sent the demon King Bali to rule the nether world.</string>
+    <string name="detail_of_celebration"> <b>DIWALI IS CELEBRATED OVER FIVE DAYS.</b>
+\n DAY ONE: People clean their homes and shop for gold or kitchen utensils to help bring good fortune.
+\n DAY TWO: People decorate their homes with clay lamps and create design patterns called rangoli on the floor    using colored powders or sand.
+\n DAY THREE: On the main day of the festival, families gather together for Lakshmi puja, a prayer to Goddess     Lakshmi, followed by mouth-watering feasts and firework festivities.
+\n DAY FOUR: This is the first day of the new year, when friends and relatives visit with gifts and best wishes   for the season.
+\n DAY FIVE: Brothers visit their married sisters, who welcome them with love and a lavish meal.</string>
+    <string name="history_of_celebration"><big><b> History </b></big>\n The Diwali festival is likely a fusion of harvest festivals in ancient India.[49] It is mentioned in Sanskrit texts such as the Padma Purana and the Skanda Purana both of which were completed in the second half of the 1st millennium CE. The diyas (lamps) are mentioned in Skanda Kishore Purana as symbolising parts of the sun, describing it as the cosmic giver of light and energy to all life and which seasonally transitions in the Hindu calendar month of Kartik.\n King Harsha refers to Deepavali, in the 7th century Sanskrit play Nagananda, as Dīpapratipadotsava (dīpa = light, pratipadā = first day, utsava = festival), where lamps were lit and newly engaged brides and grooms received gifts. Rajasekhara referred to Deepavali as Dipamalika in his 9th century Kavyamimamsa, wherein he mentions the tradition of homes being whitewashed and oil lamps decorated homes, streets and markets in the night.\n Diwali was also described by numerous travellers from outside India. In his 11th century memoir on India, the Persian traveller and historian Al Biruni wrote of Deepavali being celebrated by Hindus on the day of the New Moon in the month of Kartika. The Venetian merchant and traveller Niccolò de\' Cont visited India in the early 15th-century and wrote in his memoir, "on another of these festivals they fix up within their temples, and on the outside of the roofs, an innumerable number of oil lamps… which are kept burning day and night" and that the families would gather, "clothe themselves in new garments", sing, dance and feast.[58][59] The 16th-century Portuguese traveller Domingo Paes wrote of his visit to the Hindu Vijayanagara Empire, where Dipavali was celebrated in October with householders illuminating their homes, and their temples, with lamps.\n Publications from the British colonial era also made mention of Diwali, such as the note on Hindu festivals published in 1799 by Sir William Jones, a philologist known for his early observations on Sanskrit and Indo-European languages.[66] In his paper on The Lunar Year of the Hindus, Jones, then based in Bengal, noted four of the five days of Diwali in the autumn months of Aswina-Cartica [sic] as the following: Bhutachaturdasi Yamaterpanam (2nd day), Lacshmipuja dipanwita (the day of Diwali), Dyuta pratipat Belipuja (4th day), and Bhratri dwitiya (5th day). The Lacshmipuja dipanwita, remarked Jones, was a "great festival at night, in honor of Lakshmi, with illuminations on trees and houses".</string>
+    <string name="Funfact_textview"><b> Diwali, the festival of lights!</b>\n Diwali is the festival of lights considered an homage to the defeat of darkness with light. </string>
+</resources>
+
+
+
