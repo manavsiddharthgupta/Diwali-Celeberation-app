@@ -7,7 +7,7 @@ Thank you.
 ## What i have learnt
     -Working with Activities and layouts
     -How to initiate Multiscreen
-    -Using Intents
+    -Using Intents and Onclicklistener
     -Using Toast and log.d
     -Sending Data across the activities
     and much more basic that will help in future project.
